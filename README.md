@@ -36,9 +36,7 @@ I’m a dedicated and results-oriented **Full-Stack Developer** with expertise i
   <br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=MuhammadAhhadQumar&theme=blue_navy&hide_border=false&v=1" alt="GitHub Streak" />
   <br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://ahhad.me" alt="Profile Views" />
-  </a>
+
 </div>
 
 ---
